@@ -1,4 +1,4 @@
-Opa, bem vindo ao meu perfil!😉
+Opa, eai, só estudo e geralmente lanço uns projetos por aqui :D
 
  <div>
    <a href="https://github.com/WillDEV-oficial">
